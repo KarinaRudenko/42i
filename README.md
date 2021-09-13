@@ -1,1 +1,2 @@
 # 42i
+Karina Rudenko
